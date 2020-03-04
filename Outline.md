@@ -73,7 +73,7 @@
       * http://usaco.org/index.php?page=viewproblem2&cpid=692 (2017 Jan S 3번)
 
       * 문제 더 추가해야 함.
-
+   * http://usaco.org/index.php?page=viewproblem2&cpid=1018 : fast 지수함수, 규칙, 집합 개념 이용 (2020 Feb G 2번)
 7. 자료구조를 사용하기
    - 링크드리스트, “벡터”의 사용
 
@@ -149,6 +149,7 @@
       * BFS로 최단거리 : Vertex의 의미를 확장
       * http://usaco.org/index.php?page=viewproblem2&cpid=695 (2017 G 3번)
       * http://usaco.org/index.php?page=viewproblem2&cpid=575 (2015 G 3번)
+      * http://usaco.org/index.php?page=viewproblem2&cpid=1019 DFS + DP (2020 Feb G 3번)
 
    - Shortest Path
       - Dijkstra
@@ -157,6 +158,7 @@
          * http://usaco.org/index.php?page=viewproblem2&cpid=717 (2017 Feb G 1번)
          * http://usaco.org/index.php?page=viewproblem2&cpid=671 (2016 Dec G 3번)
       - Topological Sorting
+         * http://usaco.org/index.php?page=viewproblem2&cpid=1017 (2020 Feb G 1번)
       - BFS 이용
       - 벨만-포드
       - 플로이드 워셜
